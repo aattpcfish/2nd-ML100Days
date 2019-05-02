@@ -24,4 +24,8 @@ homework/.ipynb_checkpoints/Day_011_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_012_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_013_HW-checkpoint.ipynb
 homework/.ipynb_checkpoints/Day_016_HW-checkpoint.ipynb
-*.ipynb
+homework/titanic_baseline.csv
+data/titanic_test.csv
+data/titanic_train.csv
+*checkpoint.ipynb
+homework/Day_015_EDA_heatmap.ipynb
