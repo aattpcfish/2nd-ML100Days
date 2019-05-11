@@ -29,3 +29,5 @@ data/titanic_test.csv
 data/titanic_train.csv
 *checkpoint.ipynb
 homework/Day_015_EDA_heatmap.ipynb
+data/house_test.csv.gz
+data/house_train.csv.gz
