@@ -33,3 +33,5 @@ data/house_test.csv.gz
 data/house_train.csv.gz
 data/taxi_data1.csv
 data/taxi_data2.csv
+data/train.csv
+data/test.csv
