@@ -35,3 +35,11 @@ data/taxi_data1.csv
 data/taxi_data2.csv
 data/train.csv
 data/test.csv
+data/scikit-learn/Final_y_pred.csv
+data/scikit-learn/test.csv
+data/scikit-learn/train.csv
+data/scikit-learn/trainLabels.csv
+homework/titanic_blending.csv
+homework/titanic_gdbt.csv
+homework/titanic_lr.csv
+homework/titanic_rf.csv
