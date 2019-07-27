@@ -43,3 +43,4 @@ homework/titanic_blending.csv
 homework/titanic_gdbt.csv
 homework/titanic_lr.csv
 homework/titanic_rf.csv
+model_res/tmp.h5
